@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Football Score</string>
+    <!-- TEAM A strings. -->
+    <string name="TeamA">Team A</string>
+    <string name="GoalKeeperA" translatable="false">0</string>
+    <string name="FoulKeeperA" translatable="false">0</string>
+    <string name="GoalA">Goal</string>
+    <string name="FoulA">Foul</string>
+
+    <!-- TEAM B strings. -->
+    <string name="TeamB">Team B</string>
+    <string name="GoalKeeperB" translatable="false">0</string>
+    <string name="FoulKeeperB" translatable="false">0</string>
+    <string name="GoalB">Goal</string>
+    <string name="FoulB">Foul</string>
+
+    <!-- NEW GAME BUTTON strings. -->
+    <string name="Reset">New Game</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Buttons dimens resource. -->
+<resources>
+    <dimen name="marginBottom">8dp</dimen>
+    <dimen name="marginSides">24dp</dimen>
+</resources>
